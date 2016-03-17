@@ -1,0 +1,13 @@
+{
+  "name": "ruby-bootstrap",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
