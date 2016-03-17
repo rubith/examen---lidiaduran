@@ -65,10 +65,6 @@
 		<div class="text-center">
 			<img data-src="public/imagenes/01.jpg" alt="First slide" src="public/imagenes/01.jpg" style="width: 700px; right: 300px">
 			<h1>Patchwork: bolso con hexágonos </h1>
-			<video autobuffer autoloop loop controls style ="width: 500px; right: 300px">
-			<source src="public/videos/02.mp4" >
-				
-			</style>>
 			</div>
 		</div>
 		</div>
@@ -78,8 +74,6 @@
 		<div class="text-center">
 			<img data-src="public/imagenes/02.jpg" alt="Second slide" src="public/imagenes/02.jpg"style="width: 700px; right: 300px">
 			<h1>Patchwork: bolsos multiusos</h1>
-			<video autobuffer autoloop loop controls style ="width: 500px; right: 300px">
-		<source src="public/videos/03.mp4">
 			</div>
 		</div>
 		</div>
@@ -89,8 +83,6 @@
 		<div class="text-center">
 			<img data-src="public/imagenes/03.jpg" alt="Third slide" src="public/imagenes/03.jpg"style="width: 700px; right: 300px">
 			<h1>Patchwork:bolso con estilo</h1>
-			<video autobuffer autoloop loop controls style ="width: 500px; right: 300px">
-		<source src="public/videos/01.mp4">
 		</div>
 	</div>
 	</div>
